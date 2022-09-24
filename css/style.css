@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    background-color: beige;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_logo {
+    background-color: blueviolet;
+}
+
+.header_nav{
+    background-color: brown;
+}
+
+.header_number {
+    background-color: crimson;
+}
+
+.header_nav nav ul {
+    display: flex;
+    list-style: none;
+}
+
+.header_nav nav ul li {
+    padding-right: 50px;
+}
